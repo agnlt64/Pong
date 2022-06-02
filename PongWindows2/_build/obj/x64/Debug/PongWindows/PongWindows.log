@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\patea\OneDrive\Documents\C++\PongWindows\game\src\main.cpp(49,38): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\patea\OneDrive\Documents\C++\PongWindows\game\src\main.cpp(54,38): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\patea\OneDrive\Documents\C++\PongWindows\game\src\main.cpp(55,39): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\patea\OneDrive\Documents\C++\PongWindows\game\src\main.cpp(79,37): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\patea\OneDrive\Documents\C++\PongWindows\game\src\main.cpp(141,39): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\patea\OneDrive\Documents\C++\PongWindows\game\src\main.cpp(142,40): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\patea\OneDrive\Documents\C++\PongWindows\game\src\main.cpp(148,46): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\patea\OneDrive\Documents\C++\PongWindows\game\src\main.cpp(151,46): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\patea\OneDrive\Documents\C++\PongWindows\game\src\main.cpp(152,47): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  PongWindows.vcxproj -> C:\Users\patea\OneDrive\Documents\C++\PongWindows\_bin\Debug\PongWindows.exe
