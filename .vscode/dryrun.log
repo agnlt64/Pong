@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/Antonin/Library/CloudStorage/OneDrive-Personnel/Documents/macOS/Dev/C++/Pong'
+make: Leaving directory `/Users/Antonin/Library/CloudStorage/OneDrive-Personnel/Documents/macOS/Dev/C++/Pong'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
