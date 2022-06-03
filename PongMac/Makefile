@@ -5,7 +5,7 @@ CC := g++
 CFLAGS := `pkg-config --libs --cflags raylib` -std=c++20
 
 # headers
-HDRS := headers/*.h
+HDRS := 
 
 # sources files
 SRCS := src/*.cpp
